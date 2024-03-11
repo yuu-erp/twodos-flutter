@@ -311,7 +311,7 @@ class _SlideToUnlockText extends StatelessWidget {
         ),
         SizedBox(width: 8),
         Icon(
-          CupertinoIcons.arrow_right,
+          Icons.arrow_right_alt_sharp,
           color: Color(0xFF8A888A),
           size: 20,
         ),
